@@ -1,7 +1,7 @@
 # Integrate-Vue3-Inertia-with-Laravel8+SSR
 > **NOTICE:** This guide was written using Laravel 8. It also works with Laravel 9 that's using Laravel Mix. If you're using Laravel 9 with Vite, follow this tutorial.
 
-Before we dive in deep, we just want to make sure we have all the tools we need. We'll be using PHP 8, so make sure you have that installed, Composer and NPM. I'll briefly go over how to install Composer and NPM.
+Before we dive in deep, we just want to make sure we have all the tools we need. We'll be using PHP 7, so make sure you have that installed, Composer and NPM. I'll briefly go over how to install Composer and NPM.
 
 # 1. Installing Laravel
 
